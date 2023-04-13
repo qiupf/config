@@ -12,4 +12,4 @@ spring:
     show-sql: true
 
 example:
-  property: "I AM A DEFAULT PROPERTY OVERRIDE"
+  property: "I AM A DEFAULT PROPERTY OVERRIDE(in github)"
